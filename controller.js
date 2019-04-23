@@ -1,5 +1,5 @@
 // Add your access token MapBox
-mapboxgl.accessToken = 'pk.eyJ1IjoiYWxpbmthZ2x1bSIsImEiOiJjanVxdTV2bWoxa3d1NGRtdXY1Y3l0NzV0In0.SRfX5KqGcn9irjhyFC83YQ';
+mapboxgl.accessToken = 'yourkey';
 // Center of map at start
 var center = [30.729, 46.4747];
 // My pointList
